@@ -1,4 +1,5 @@
 {
   "digest": "54aeb0189a891c7051cac25fd6ef3b94c50b8f3306cc450b22c46f972c7f6e4b",
-  "checked_at": "2026-10-29T13:15:28+02:00"
+  "checked_at": "2026-10-29T13:15:28+02:00",
+  "api_failure_since": "2026-10-29T19:56:44+02:00"
 }
